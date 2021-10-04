@@ -1,2 +1,2 @@
 # Nebula
-This is a project used on Roblox. The source is open for all, but credit MUST be provided.
+This is a system used for administrating and operating ROBLOX games.
